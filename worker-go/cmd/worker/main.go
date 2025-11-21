@@ -4,9 +4,9 @@ import (
 	"log"
 
 	"github.com/joho/godotenv"
-	"your-module/internal/httpclient"
-	"your-module/internal/models"
-	"your-module/internal/rabbit"
+	"worker-go/internal/httpclient"
+	"worker-go/internal/models"
+	"worker-go/internal/rabbit"
 )
 
 func main() {
